@@ -1,6 +1,6 @@
 # vuecli3
 
-[预览](https://besswang.github.io/rj-payadmin-vue/#/login)
+[预览](https://besswang.github.io/rj-payadmin/#/login)
 ## Project setup
 ```
 npm install
